@@ -1,1 +1,1 @@
-Popup Extension to reach social media: YouTube, Reddit, Twitter, Twitch and Instagram
+Popup Extension to reach socials: YouTube, Reddit, Twitter, Twitch and Instagram
