@@ -1,32 +1,31 @@
-*  /*CSS Reset*/
-{
+ /*CSS Reset*/
+* {
     margin:0;
     padding:0;
     box-sizing: border-box;
 }
 
-body
-{
+body{
     background: rgb(19, 3, 41);  
     margin: 0;
     min-width: 250px;
     min-height: 100px;
-
 }
 
-.container
-{
-
+.container{
     height: 100vh;
     display: flex;
     justify-content: center;
     align-items: center;
-
+    border-radius: 12px;
 }
 
-a
-{
+a{
     color: #eee;
     font-size: 30px;
     margin: 0 10px;
 }
+
+img:hover{  
+    filter:  drop-shadow(0px 0px 7px rgba(243, 243, 243, 0.64))
+}   

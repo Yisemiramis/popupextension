@@ -1,11 +1,11 @@
 {
-    "name": "Yisemiramis Popup",
+    "name": "Quick Socials",
     "version": "1.0.0",
-    "description": "Easy Access",
-    "manifest_version": 2,
-    "browser_action" :
+    "description": "Easy Access for socials",
+    "manifest_version": 3,
+    "action" :
     {
-        "default_icon": "./img/icon.png",
+        "default_icon": "./img/icon-2.png",
         "default_popup": "popup.html"
     }
 }
